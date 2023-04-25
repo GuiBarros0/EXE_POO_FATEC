@@ -1,0 +1,14 @@
+F:\20221\POO manhã\HerancaCliente\bin\Debug\HerancaCliente.exe.config
+F:\20221\POO manhã\HerancaCliente\bin\Debug\HerancaCliente.exe
+F:\20221\POO manhã\HerancaCliente\bin\Debug\HerancaCliente.pdb
+F:\20221\POO manhã\HerancaCliente\obj\Debug\HerancaCliente.csprojAssemblyReference.cache
+F:\20221\POO manhã\HerancaCliente\obj\Debug\HerancaCliente.csproj.CoreCompileInputs.cache
+F:\20221\POO manhã\HerancaCliente\obj\Debug\HerancaCliente.exe
+F:\20221\POO manhã\HerancaCliente\obj\Debug\HerancaCliente.pdb
+E:\POO manhã\HerancaCliente\bin\Debug\HerancaCliente.exe.config
+E:\POO manhã\HerancaCliente\bin\Debug\HerancaCliente.exe
+E:\POO manhã\HerancaCliente\bin\Debug\HerancaCliente.pdb
+E:\POO manhã\HerancaCliente\obj\Debug\HerancaCliente.csproj.AssemblyReference.cache
+E:\POO manhã\HerancaCliente\obj\Debug\HerancaCliente.csproj.CoreCompileInputs.cache
+E:\POO manhã\HerancaCliente\obj\Debug\HerancaCliente.exe
+E:\POO manhã\HerancaCliente\obj\Debug\HerancaCliente.pdb

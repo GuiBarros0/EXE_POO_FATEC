@@ -1,0 +1,7 @@
+F:\20221\POO manhã\ArrayProduto\bin\Debug\ArrayProduto.exe.config
+F:\20221\POO manhã\ArrayProduto\bin\Debug\ArrayProduto.exe
+F:\20221\POO manhã\ArrayProduto\bin\Debug\ArrayProduto.pdb
+F:\20221\POO manhã\ArrayProduto\obj\Debug\ArrayProduto.csprojAssemblyReference.cache
+F:\20221\POO manhã\ArrayProduto\obj\Debug\ArrayProduto.csproj.CoreCompileInputs.cache
+F:\20221\POO manhã\ArrayProduto\obj\Debug\ArrayProduto.exe
+F:\20221\POO manhã\ArrayProduto\obj\Debug\ArrayProduto.pdb

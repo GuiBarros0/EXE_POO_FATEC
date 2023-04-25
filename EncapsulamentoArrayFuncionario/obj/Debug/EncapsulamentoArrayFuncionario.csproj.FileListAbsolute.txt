@@ -1,0 +1,6 @@
+F:\20221\POO manhã\EncapsulamentoArrayFuncionario\bin\Debug\EncapsulamentoArrayFuncionario.exe.config
+F:\20221\POO manhã\EncapsulamentoArrayFuncionario\bin\Debug\EncapsulamentoArrayFuncionario.exe
+F:\20221\POO manhã\EncapsulamentoArrayFuncionario\bin\Debug\EncapsulamentoArrayFuncionario.pdb
+F:\20221\POO manhã\EncapsulamentoArrayFuncionario\obj\Debug\EncapsulamentoArrayFuncionario.csproj.CoreCompileInputs.cache
+F:\20221\POO manhã\EncapsulamentoArrayFuncionario\obj\Debug\EncapsulamentoArrayFuncionario.exe
+F:\20221\POO manhã\EncapsulamentoArrayFuncionario\obj\Debug\EncapsulamentoArrayFuncionario.pdb

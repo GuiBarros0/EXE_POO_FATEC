@@ -1,0 +1,7 @@
+F:\20221\POO manhã\ConstrutorConta\bin\Debug\ConstrutorConta.exe.config
+F:\20221\POO manhã\ConstrutorConta\bin\Debug\ConstrutorConta.exe
+F:\20221\POO manhã\ConstrutorConta\bin\Debug\ConstrutorConta.pdb
+F:\20221\POO manhã\ConstrutorConta\obj\Debug\ConstrutorConta.csprojAssemblyReference.cache
+F:\20221\POO manhã\ConstrutorConta\obj\Debug\ConstrutorConta.csproj.CoreCompileInputs.cache
+F:\20221\POO manhã\ConstrutorConta\obj\Debug\ConstrutorConta.exe
+F:\20221\POO manhã\ConstrutorConta\obj\Debug\ConstrutorConta.pdb

@@ -1,0 +1,7 @@
+F:\20221\POO manhã\ConstrutorAluno\bin\Debug\ConstrutorAluno.exe.config
+F:\20221\POO manhã\ConstrutorAluno\bin\Debug\ConstrutorAluno.exe
+F:\20221\POO manhã\ConstrutorAluno\bin\Debug\ConstrutorAluno.pdb
+F:\20221\POO manhã\ConstrutorAluno\obj\Debug\ConstrutorAluno.csprojAssemblyReference.cache
+F:\20221\POO manhã\ConstrutorAluno\obj\Debug\ConstrutorAluno.csproj.CoreCompileInputs.cache
+F:\20221\POO manhã\ConstrutorAluno\obj\Debug\ConstrutorAluno.exe
+F:\20221\POO manhã\ConstrutorAluno\obj\Debug\ConstrutorAluno.pdb

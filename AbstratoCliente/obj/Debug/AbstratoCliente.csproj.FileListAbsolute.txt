@@ -1,0 +1,20 @@
+F:\POO manhã\AbstratoCliente\obj\Debug\AbstratoCliente.csproj.CoreCompileInputs.cache
+F:\POO manhã\AbstratoCliente\bin\Debug\AbstratoCliente.exe.config
+F:\POO manhã\AbstratoCliente\bin\Debug\AbstratoCliente.exe
+F:\POO manhã\AbstratoCliente\bin\Debug\AbstratoCliente.pdb
+F:\POO manhã\AbstratoCliente\obj\Debug\AbstratoCliente.exe
+F:\POO manhã\AbstratoCliente\obj\Debug\AbstratoCliente.pdb
+E:\POO manhã\AbstratoCliente\bin\Debug\AbstratoCliente.exe.config
+E:\POO manhã\AbstratoCliente\bin\Debug\AbstratoCliente.exe
+E:\POO manhã\AbstratoCliente\bin\Debug\AbstratoCliente.pdb
+E:\POO manhã\AbstratoCliente\obj\Debug\AbstratoCliente.csproj.AssemblyReference.cache
+E:\POO manhã\AbstratoCliente\obj\Debug\AbstratoCliente.csproj.CoreCompileInputs.cache
+E:\POO manhã\AbstratoCliente\obj\Debug\AbstratoCliente.exe
+E:\POO manhã\AbstratoCliente\obj\Debug\AbstratoCliente.pdb
+D:\User\Area de Trabalho\POO manhã\AbstratoCliente\bin\Debug\AbstratoCliente.exe.config
+D:\User\Area de Trabalho\POO manhã\AbstratoCliente\bin\Debug\AbstratoCliente.exe
+D:\User\Area de Trabalho\POO manhã\AbstratoCliente\bin\Debug\AbstratoCliente.pdb
+D:\User\Area de Trabalho\POO manhã\AbstratoCliente\obj\Debug\AbstratoCliente.csproj.AssemblyReference.cache
+D:\User\Area de Trabalho\POO manhã\AbstratoCliente\obj\Debug\AbstratoCliente.csproj.CoreCompileInputs.cache
+D:\User\Area de Trabalho\POO manhã\AbstratoCliente\obj\Debug\AbstratoCliente.exe
+D:\User\Area de Trabalho\POO manhã\AbstratoCliente\obj\Debug\AbstratoCliente.pdb

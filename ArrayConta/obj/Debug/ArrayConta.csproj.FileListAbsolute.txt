@@ -1,0 +1,7 @@
+F:\20221\POO manhã\ArrayConta\bin\Debug\ArrayConta.exe.config
+F:\20221\POO manhã\ArrayConta\bin\Debug\ArrayConta.exe
+F:\20221\POO manhã\ArrayConta\bin\Debug\ArrayConta.pdb
+F:\20221\POO manhã\ArrayConta\obj\Debug\ArrayConta.csprojAssemblyReference.cache
+F:\20221\POO manhã\ArrayConta\obj\Debug\ArrayConta.csproj.CoreCompileInputs.cache
+F:\20221\POO manhã\ArrayConta\obj\Debug\ArrayConta.exe
+F:\20221\POO manhã\ArrayConta\obj\Debug\ArrayConta.pdb

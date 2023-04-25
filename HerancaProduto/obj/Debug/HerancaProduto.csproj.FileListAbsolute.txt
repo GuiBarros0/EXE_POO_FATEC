@@ -1,0 +1,14 @@
+F:\20221\POO manhã\HerancaProduto\bin\Debug\HerancaProduto.exe.config
+F:\20221\POO manhã\HerancaProduto\bin\Debug\HerancaProduto.exe
+F:\20221\POO manhã\HerancaProduto\bin\Debug\HerancaProduto.pdb
+F:\20221\POO manhã\HerancaProduto\obj\Debug\HerancaProduto.csproj.CoreCompileInputs.cache
+F:\20221\POO manhã\HerancaProduto\obj\Debug\HerancaProduto.exe
+F:\20221\POO manhã\HerancaProduto\obj\Debug\HerancaProduto.pdb
+F:\20221\POO manhã\HerancaProduto\obj\Debug\HerancaProduto.csprojAssemblyReference.cache
+E:\POO manhã\HerancaProduto\bin\Debug\HerancaProduto.exe.config
+E:\POO manhã\HerancaProduto\bin\Debug\HerancaProduto.exe
+E:\POO manhã\HerancaProduto\bin\Debug\HerancaProduto.pdb
+E:\POO manhã\HerancaProduto\obj\Debug\HerancaProduto.csproj.AssemblyReference.cache
+E:\POO manhã\HerancaProduto\obj\Debug\HerancaProduto.csproj.CoreCompileInputs.cache
+E:\POO manhã\HerancaProduto\obj\Debug\HerancaProduto.exe
+E:\POO manhã\HerancaProduto\obj\Debug\HerancaProduto.pdb

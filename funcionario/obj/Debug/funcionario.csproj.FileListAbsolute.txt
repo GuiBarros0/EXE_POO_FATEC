@@ -1,0 +1,7 @@
+E:\POO manhã\funcionario\bin\Debug\funcionario.exe.config
+E:\POO manhã\funcionario\bin\Debug\funcionario.exe
+E:\POO manhã\funcionario\bin\Debug\funcionario.pdb
+E:\POO manhã\funcionario\obj\Debug\funcionario.csproj.AssemblyReference.cache
+E:\POO manhã\funcionario\obj\Debug\funcionario.csproj.CoreCompileInputs.cache
+E:\POO manhã\funcionario\obj\Debug\funcionario.exe
+E:\POO manhã\funcionario\obj\Debug\funcionario.pdb

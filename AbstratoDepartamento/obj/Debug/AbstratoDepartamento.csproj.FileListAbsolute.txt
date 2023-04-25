@@ -1,0 +1,14 @@
+F:\g\POO\POO manhã\AbstratoDepartamento\bin\Debug\AbstratoDepartamento.exe.config
+F:\g\POO\POO manhã\AbstratoDepartamento\bin\Debug\AbstratoDepartamento.exe
+F:\g\POO\POO manhã\AbstratoDepartamento\bin\Debug\AbstratoDepartamento.pdb
+F:\g\POO\POO manhã\AbstratoDepartamento\obj\Debug\AbstratoDepartamento.csprojAssemblyReference.cache
+F:\g\POO\POO manhã\AbstratoDepartamento\obj\Debug\AbstratoDepartamento.csproj.CoreCompileInputs.cache
+F:\g\POO\POO manhã\AbstratoDepartamento\obj\Debug\AbstratoDepartamento.exe
+F:\g\POO\POO manhã\AbstratoDepartamento\obj\Debug\AbstratoDepartamento.pdb
+D:\User\Area de Trabalho\POO manhã\AbstratoDepartamento\obj\Debug\AbstratoDepartamento.csproj.AssemblyReference.cache
+D:\User\Area de Trabalho\POO manhã\AbstratoDepartamento\obj\Debug\AbstratoDepartamento.csproj.CoreCompileInputs.cache
+D:\User\Area de Trabalho\POO manhã\AbstratoDepartamento\obj\Debug\AbstratoDepartamento.exe
+D:\User\Area de Trabalho\POO manhã\AbstratoDepartamento\obj\Debug\AbstratoDepartamento.pdb
+D:\User\Area de Trabalho\POO manhã\AbstratoDepartamento\bin\Debug\AbstratoDepartamento.exe.config
+D:\User\Area de Trabalho\POO manhã\AbstratoDepartamento\bin\Debug\AbstratoDepartamento.exe
+D:\User\Area de Trabalho\POO manhã\AbstratoDepartamento\bin\Debug\AbstratoDepartamento.pdb

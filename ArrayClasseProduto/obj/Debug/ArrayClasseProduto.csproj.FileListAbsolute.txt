@@ -1,0 +1,7 @@
+F:\20221\POO manhã\ArrayClasseProduto\bin\Debug\ArrayClasseProduto.exe.config
+F:\20221\POO manhã\ArrayClasseProduto\bin\Debug\ArrayClasseProduto.exe
+F:\20221\POO manhã\ArrayClasseProduto\bin\Debug\ArrayClasseProduto.pdb
+F:\20221\POO manhã\ArrayClasseProduto\obj\Debug\ArrayClasseProduto.csprojAssemblyReference.cache
+F:\20221\POO manhã\ArrayClasseProduto\obj\Debug\ArrayClasseProduto.csproj.CoreCompileInputs.cache
+F:\20221\POO manhã\ArrayClasseProduto\obj\Debug\ArrayClasseProduto.exe
+F:\20221\POO manhã\ArrayClasseProduto\obj\Debug\ArrayClasseProduto.pdb

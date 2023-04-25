@@ -1,0 +1,21 @@
+F:\g\POO\POO manhã\InterfaceItributavel\bin\Debug\InterfaceItributavel.exe.config
+F:\g\POO\POO manhã\InterfaceItributavel\bin\Debug\InterfaceItributavel.exe
+F:\g\POO\POO manhã\InterfaceItributavel\bin\Debug\InterfaceItributavel.pdb
+F:\g\POO\POO manhã\InterfaceItributavel\obj\Debug\InterfaceItributavel.csprojAssemblyReference.cache
+F:\g\POO\POO manhã\InterfaceItributavel\obj\Debug\InterfaceItributavel.csproj.CoreCompileInputs.cache
+F:\g\POO\POO manhã\InterfaceItributavel\obj\Debug\InterfaceItributavel.exe
+F:\g\POO\POO manhã\InterfaceItributavel\obj\Debug\InterfaceItributavel.pdb
+E:\POO manhã\InterfaceItributavel\bin\Debug\InterfaceItributavel.exe.config
+E:\POO manhã\InterfaceItributavel\bin\Debug\InterfaceItributavel.exe
+E:\POO manhã\InterfaceItributavel\bin\Debug\InterfaceItributavel.pdb
+E:\POO manhã\InterfaceItributavel\obj\Debug\InterfaceItributavel.csprojAssemblyReference.cache
+E:\POO manhã\InterfaceItributavel\obj\Debug\InterfaceItributavel.csproj.CoreCompileInputs.cache
+E:\POO manhã\InterfaceItributavel\obj\Debug\InterfaceItributavel.exe
+E:\POO manhã\InterfaceItributavel\obj\Debug\InterfaceItributavel.pdb
+D:\User\Area de Trabalho\POO manhã\InterfaceItributavel\bin\Debug\InterfaceItributavel.exe.config
+D:\User\Area de Trabalho\POO manhã\InterfaceItributavel\bin\Debug\InterfaceItributavel.exe
+D:\User\Area de Trabalho\POO manhã\InterfaceItributavel\bin\Debug\InterfaceItributavel.pdb
+D:\User\Area de Trabalho\POO manhã\InterfaceItributavel\obj\Debug\InterfaceItributavel.csproj.CoreCompileInputs.cache
+D:\User\Area de Trabalho\POO manhã\InterfaceItributavel\obj\Debug\InterfaceItributavel.exe
+D:\User\Area de Trabalho\POO manhã\InterfaceItributavel\obj\Debug\InterfaceItributavel.pdb
+D:\User\Area de Trabalho\POO manhã\InterfaceItributavel\obj\Debug\InterfaceItributavel.csproj.AssemblyReference.cache

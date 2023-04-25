@@ -1,0 +1,7 @@
+F:\g\POO\POO manhã\InterfaceAutenticado\bin\Debug\InterfaceAutenticado.exe.config
+F:\g\POO\POO manhã\InterfaceAutenticado\bin\Debug\InterfaceAutenticado.exe
+F:\g\POO\POO manhã\InterfaceAutenticado\bin\Debug\InterfaceAutenticado.pdb
+F:\g\POO\POO manhã\InterfaceAutenticado\obj\Debug\InterfaceAutenticado.csprojAssemblyReference.cache
+F:\g\POO\POO manhã\InterfaceAutenticado\obj\Debug\InterfaceAutenticado.csproj.CoreCompileInputs.cache
+F:\g\POO\POO manhã\InterfaceAutenticado\obj\Debug\InterfaceAutenticado.exe
+F:\g\POO\POO manhã\InterfaceAutenticado\obj\Debug\InterfaceAutenticado.pdb

@@ -1,0 +1,7 @@
+F:\20221\POO manhã\EncapsulamentoConta\bin\Debug\EncapsulamentoConta.exe.config
+F:\20221\POO manhã\EncapsulamentoConta\bin\Debug\EncapsulamentoConta.exe
+F:\20221\POO manhã\EncapsulamentoConta\bin\Debug\EncapsulamentoConta.pdb
+F:\20221\POO manhã\EncapsulamentoConta\obj\Debug\EncapsulamentoConta.csprojAssemblyReference.cache
+F:\20221\POO manhã\EncapsulamentoConta\obj\Debug\EncapsulamentoConta.csproj.CoreCompileInputs.cache
+F:\20221\POO manhã\EncapsulamentoConta\obj\Debug\EncapsulamentoConta.exe
+F:\20221\POO manhã\EncapsulamentoConta\obj\Debug\EncapsulamentoConta.pdb

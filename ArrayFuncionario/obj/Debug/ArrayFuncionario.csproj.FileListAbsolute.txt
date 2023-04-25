@@ -1,0 +1,7 @@
+F:\20221\POO manhã\ArrayFuncionario\bin\Debug\ArrayFuncionario.exe.config
+F:\20221\POO manhã\ArrayFuncionario\bin\Debug\ArrayFuncionario.exe
+F:\20221\POO manhã\ArrayFuncionario\bin\Debug\ArrayFuncionario.pdb
+F:\20221\POO manhã\ArrayFuncionario\obj\Debug\ArrayFuncionario.csprojAssemblyReference.cache
+F:\20221\POO manhã\ArrayFuncionario\obj\Debug\ArrayFuncionario.csproj.CoreCompileInputs.cache
+F:\20221\POO manhã\ArrayFuncionario\obj\Debug\ArrayFuncionario.exe
+F:\20221\POO manhã\ArrayFuncionario\obj\Debug\ArrayFuncionario.pdb

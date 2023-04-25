@@ -1,0 +1,7 @@
+F:\20221\POO manhã\ComposicaoNotaFiscal\bin\Debug\ComposicaoNotaFiscal.exe.config
+F:\20221\POO manhã\ComposicaoNotaFiscal\bin\Debug\ComposicaoNotaFiscal.exe
+F:\20221\POO manhã\ComposicaoNotaFiscal\bin\Debug\ComposicaoNotaFiscal.pdb
+F:\20221\POO manhã\ComposicaoNotaFiscal\obj\Debug\ComposicaoNotaFiscal.csprojAssemblyReference.cache
+F:\20221\POO manhã\ComposicaoNotaFiscal\obj\Debug\ComposicaoNotaFiscal.csproj.CoreCompileInputs.cache
+F:\20221\POO manhã\ComposicaoNotaFiscal\obj\Debug\ComposicaoNotaFiscal.exe
+F:\20221\POO manhã\ComposicaoNotaFiscal\obj\Debug\ComposicaoNotaFiscal.pdb

@@ -1,0 +1,14 @@
+G:\20221\POO manhã\ClasseConta\bin\Debug\ClasseConta.exe.config
+G:\20221\POO manhã\ClasseConta\bin\Debug\ClasseConta.exe
+G:\20221\POO manhã\ClasseConta\bin\Debug\ClasseConta.pdb
+G:\20221\POO manhã\ClasseConta\obj\Debug\ClasseConta.csprojAssemblyReference.cache
+G:\20221\POO manhã\ClasseConta\obj\Debug\ClasseConta.csproj.CoreCompileInputs.cache
+G:\20221\POO manhã\ClasseConta\obj\Debug\ClasseConta.exe
+G:\20221\POO manhã\ClasseConta\obj\Debug\ClasseConta.pdb
+F:\20221\POO manhã\ClasseConta\bin\Debug\ClasseConta.exe.config
+F:\20221\POO manhã\ClasseConta\bin\Debug\ClasseConta.exe
+F:\20221\POO manhã\ClasseConta\bin\Debug\ClasseConta.pdb
+F:\20221\POO manhã\ClasseConta\obj\Debug\ClasseConta.csprojAssemblyReference.cache
+F:\20221\POO manhã\ClasseConta\obj\Debug\ClasseConta.csproj.CoreCompileInputs.cache
+F:\20221\POO manhã\ClasseConta\obj\Debug\ClasseConta.exe
+F:\20221\POO manhã\ClasseConta\obj\Debug\ClasseConta.pdb
